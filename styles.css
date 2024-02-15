@@ -1,3 +1,29 @@
 * {
-  outline: 6px solid black;
+  outline: 2px solid black;
 }
+
+body {
+  font-family: Tahoma, sans-serif;
+  background-color: #FFFFFF;
+}
+
+.list {
+
+  box-sizing: border-box;
+  background: #FFFFFF;
+  margin: 20px auto;
+
+}
+
+.recipe {
+  background-color: #e3f4ff;
+  padding: 20px;
+
+  }
+
+.list-child {
+  padding: 8px;
+}
+
+
+
