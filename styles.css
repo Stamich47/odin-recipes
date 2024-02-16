@@ -2,19 +2,12 @@
   /* outline: 2px solid black; */
 }
 
-body {
+.main {
   font-family: Tahoma, sans-serif;
   background-color: #e3e3e3;
   width: 800px;
   margin: 20px auto;
   border: 2px solid black;
-}
-
-.list {
-
-  /* box-sizing: border-box; */
-  /* background: #FFFFFF; */
-
 }
 
 .recipe {
@@ -35,5 +28,18 @@ body {
   /* background-color: #e3f4ff; */
 }
 
+img {
+  display: block;
+  margin: 20px auto;
+  border: 2px solid black;
+}
+
+.caption {
+  text-align: center;
+  font-size: 14px;
+  margin-top: -10px;
+  padding-bottom: 15px;
+  border-bottom: 3px solid black;
+}
 
 
