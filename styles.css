@@ -4,7 +4,7 @@
 
 .main {
   font-family: Tahoma, sans-serif;
-  background-color: #e3e3e3;
+  background-color: aliceblue;
   width: 800px;
   margin: 20px auto;
   border: 2px solid black;
@@ -49,6 +49,13 @@ img {
   margin: auto;
   background-color: aliceblue;
 
+}
+
+.text-recipe {
+  box-sizing: border-box;
+  margin-left: 10px;
+  padding-left: 20px;
+  /* outline: 2px solid black; */
 }
 
 
